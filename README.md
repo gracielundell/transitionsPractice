@@ -8,6 +8,7 @@ Created as a means to practice CSS transitions, this site is an "ocean experienc
 
 ##Setup
 To view this webpage and the code behind it, clone this repository. Then open it using the text editor of your choice. Once opened, drag the <code>index.html</code> tab into the header of your web browser. Sit back, and enjoy.
+To view more easily, this page is hosted using GitHub Pages and may be ciewed [here](http://gracielundell.com/transitionsPractice/). For the full effect, simultaneously play [this](https://www.youtube.com/watch?v=f77SKdyn-1Y) while viewing the webpage.
 
 ##Technologies Used
 - HTML
